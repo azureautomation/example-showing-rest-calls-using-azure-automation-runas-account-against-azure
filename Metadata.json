@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 5027,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/example-showing-rest-calls-using-azure-automation-runas-account-against-azure/master/sample_rest_call.py",
+    "DownloadCount": 1068,
+    "Id": "Example-showing-REST-calls-19fae72a",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 76,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-8-14T00:00:00",
+    "RunbookKind": 9,
+    "RunbookKindString": "Python",
+    "Summary": "Example showing REST calls using Azure Automation RunAs account against Azure resources (sample starts an automation runbook job for a runbook)",
+    "Title": "Example showing REST calls using Azure Automation RunAs account against Azure",
+    "UpdatedDate": "2018-8-14T00:00:00",
+    "Url": "https://github.com/azureautomation/example-showing-rest-calls-using-azure-automation-runas-account-against-azure",
+    "UserTags": "Azure Automation, Python"
+}
